@@ -1,0 +1,2 @@
+# IDcardOCR
+project for graduate
